@@ -1,0 +1,26 @@
+{
+	"name": "ktaris/numeroaletra",
+	"description": "Clase para convertir números en palabras",
+	"homepage": "https://github.com/ktaris/CNumeroaLetra",
+	"keywords": ["php", "español"],
+	"license": "GPLv2",
+	"minimum-stability": "dev",
+	"type": "class",
+	"authors": [
+        {
+            "name": "Omar Eduardo Ortiz Garza",
+            "email": "ortizom@siicsa.com"
+        },
+        {
+            "name": "Carlos Ramos",
+            "email": "carlos@ktaris.com"
+        }
+    ],
+	"require": {
+		"php": ">=5.3.0",
+	},
+	"support": {
+        "issues": "https://github.com/ktaris/CNumeroaLetra/issues",
+        "source": "https://github.com/ktaris/CNumeroaLetra"
+    }
+}
