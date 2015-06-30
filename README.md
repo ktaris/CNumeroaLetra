@@ -12,7 +12,7 @@ Añade la dependencia al archivo ```composer.json```:
 ```json
 {
     "require": {
-        "ktaris/numeroaletra": "1.0"
+        "ktaris/numeroaletra": "1.0.1"
     }
 }
 ```
