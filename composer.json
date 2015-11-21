@@ -22,5 +22,10 @@
 	"support": {
         "issues": "https://github.com/ktaris/CNumeroaLetra/issues",
         "source": "https://github.com/ktaris/CNumeroaLetra"
+    },
+    "autoload": {
+        "psr-4": {
+            "ktaris\\numeroletra\\": ""
+        }
     }
 }
